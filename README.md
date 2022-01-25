@@ -38,4 +38,4 @@ Here is an example of a command I used to download:
 
 Important notes: The format is command > path to directory or file to download > --destination username/project name > --tag name of upload in BioDataCatalyst. ALSO, your project name will need to be lowercase even if the "sb projects list" command shows the name with uppercase letters as in BioDataCatalyst.
 
-From here, one can access the project on BioDataCatalyst. Files can be moved to different projects from there. Select the file and choose copy or move, etc. 
+From here, one can access files from the project on BioDataCatalyst. Files can be moved to different projects from there. Select the file and choose copy or move, etc. 
