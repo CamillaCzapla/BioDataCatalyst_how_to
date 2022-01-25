@@ -31,7 +31,9 @@ MEANWHILE, on BioDataCatalyst, go to Developer > Authentication Token > API endp
 
 To see the projects you can access, use the command: ./sb projects list --user cczapla ##your username
 
-Here is an example of a command I used to download: ./sb upload start /home/camilla/PrediXcan_tutorial/data/ --destination cczapla/test-cli --tag upload1
+Here is an example of a command I used to download: 
+
+./sb upload start /home/camilla/PrediXcan_tutorial/data/ --destination cczapla/test-cli --tag upload1
 
 Important notes: The format is command > path to directory or file to download > --destination username/project name > --tag name of upload in BioDataCatalyst. ALSO, your project name will need to be lowercase even if the "sb projects list" command shows the name with uppercase letters as in BioDataCatalyst.
 
