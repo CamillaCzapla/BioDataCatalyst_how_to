@@ -8,6 +8,7 @@ https://accounts.sb.biodatacatalyst.nhlbi.nih.gov/auth/login?next=https%3A%2F%2F
 
 Once I was approved in a project in BioDataCatalyst, I could access my project dashboard. 
 
+UPLOADING FILES TO BIODATACATALYST
 
 In order to download/upload files to your project, one needs to download the Seven Bridges Command Line Interface (SB CLI). 
 
@@ -19,7 +20,7 @@ On the terminal I went through my local machine's files until I was in the folde
 
 Secure transfer command: scp sb camilla@10.22.9.205:/home/camilla 
 
-Once I had sb on the server, I needed to use this command to be able to run it as a program: chmod a+x sb. 
+Once I had sb on the server, I needed to use this command to be able to run it as a program: chmod a+x sb
 
 Note: I needed to put "./" in front of all my commands since the program I'm running is only in my directory.
 
